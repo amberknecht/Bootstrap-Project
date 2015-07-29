@@ -1,0 +1,65 @@
+@font-face{ 
+	font-family: 'MyWebFont';
+	src: url('WebFont.eot');
+	src: url('WebFont.eot?iefix') format('eot'),
+	     url('WebFont.woff') format('woff'),
+	     url('WebFont.ttf') format('truetype'),
+	     url('WebFont.svg#webfont') format('svg');
+}
+
+html {
+    font-family: 'Roboto', sans-serif;
+    font-size: 14px;
+    height: 3023px;
+    width: 1422px;
+}
+.navbar {
+    margin-top: 20px;
+    z-index: 10;
+}
+
+#carousel-example-generic {
+    margin-bottom: 61px;
+}
+
+.btn-primary {
+    margin-top: 27px;
+    margin-bottom: 24px;
+}
+
+
+
+.container-fluid {
+    margin-right: 10%;
+    margin-left: 10%;
+}
+
+.divider {
+    border-bottom: solid 1px gray;
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: 80px;
+    margin-bottom: 80px;
+}
+
+.featurettes {
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+.featurette-heading {
+    margin-top: 120px;
+    margin-bottom: 10;
+    font-size: 2.15rem;
+}
+
+.form {
+    margin-right: 10%;
+    margin-left: 10%;
+    margin-bottom: 80px;
+}
+
+.parallax-window {
+    min-height: 400px;
+    background: transparent;
+}
